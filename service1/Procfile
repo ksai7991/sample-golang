@@ -1,2 +1,2 @@
-web: service1/bin/service1
+web: bin/service1
 
